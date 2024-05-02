@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"Twalls","path":"tilesets/Twalls/Twalls.yy",},"order":0,},
     {"id":{"name":"obj_InvisibleWall","path":"objects/obj_InvisibleWall/obj_InvisibleWall.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":3,},
     {"id":{"name":"SplayerR","path":"sprites/SplayerR/SplayerR.yy",},"order":5,},
