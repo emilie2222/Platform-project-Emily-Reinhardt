@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_InvisibleWall",
+  "name": "oPlayer",
   "spriteId": {
-    "name": "spr_InvisibleWall",
-    "path": "sprites/spr_InvisibleWall/spr_InvisibleWall.yy",
+    "name": "sPlayer",
+    "path": "sprites/sPlayer/sPlayer.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sPlayer",
+    "path": "sprites/sPlayer/sPlayer.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -24,7 +27,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
