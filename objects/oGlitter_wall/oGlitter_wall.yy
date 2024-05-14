@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oGlitter_wall",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sGlitch_wall",
+    "path": "sprites/sGlitch_wall/sGlitch_wall.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
