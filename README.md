@@ -15,3 +15,5 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ## Credits
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
+
+In this game, I added sound effects in the bonus room, I also added background music. I added a glitch animation to my charecter and created a glich animation to the platform. I added many room for the player to enjot and I added a bonus room just for fun.,
